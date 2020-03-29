@@ -1,5 +1,4 @@
 # sei-group-project
-# sei-group-project
 ![GA Logo](https://cloud.githubusercontent.com/assets/40461/8183776/469f976e-1432-11e5-8199-6ac91363302b.png)
 # Software Engineering Immersive: Project 3
 This was the third project built whilst studying the Software Engineering Immersive course at General Assembly.
@@ -675,7 +674,7 @@ The main challenges:
 ### Improvements
 The improvements include:
 1. Making a more complex search bar that can search for trails from several criteria rather than focus on one or two aspects.
-2. Given more time 
+2. Given more time I would have liked to experimented more on CSS and Bulma 
 ___
 
 #### Author
