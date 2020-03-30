@@ -664,7 +664,7 @@ export default Footer
 ## Challenges and Improvements
 
 ### Wins
-I learnt a lot when building this app. Learning how the back-end and front-end interacted with each other proved to be very useful going forward into other projects and my understanding of express, node.js and react.js improved significantly. This prokect also taught me the importance of a solid comprehensive plan and how important it is when working in a team.
+I learnt a lot when building this app. Learning how the back-end and front-end interacted with each other proved to be very useful going forward into other projects and my understanding of Express, Node.js and React.js improved significantly. This prokect also taught me the importance of a solid comprehensive plan and how important it is when working in a team.
 
 ### Challenges
 The main challenges:
